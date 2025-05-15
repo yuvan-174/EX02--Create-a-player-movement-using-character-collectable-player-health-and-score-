@@ -26,6 +26,8 @@
  are spread out and not too close to each other
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/573a6fac-ed1d-4b41-a46e-d4a10690d96e)
+![image](https://github.com/user-attachments/assets/7e237bfd-af25-421c-8a61-cd773db30c41)
+
 # RESULT:
  Thus, To Create aplayer movement usingpawn, collectible, player health, and score createdand
  developed by unreal Engine
